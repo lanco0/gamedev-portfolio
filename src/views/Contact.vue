@@ -12,19 +12,19 @@
       </li>
       <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i>
-        <a href="mailto:my@email.com" target="_blank">my@email.com</a>
+        <a href="mailto:hakkitumar@gmail.com" target="_blank">hakkitumar@gmail.com</a>
       </li>
       <li>
         <i class="fa fa-linkedin fa-lg fa-fw" style="vertical-align: -5%;"></i>
-        <a href="https://www.linkedin.com/me" target="_blank">linkedin.com/me</a>
+        <a href="https://www.linkedin.com/in/hakkitumar/" target="_blank">https://www.linkedin.com/in/hakkitumar/</a>
       </li>
       <li>
         <i class="fa fa-github fa-lg fa-fw"></i>
-        <a href="https://github.com/me" target="_blank">github.com/me</a>
+        <a href="https://github.com/lanco0" target="_blank">https://github.com/lanco0</a>
       </li>
       <li>
         <i class="fa fa-gamepad fa-lg fa-fw"></i>
-        <a href="https://myself.itch.io" target="_blank">myself.itch.io</a>
+        <a href="https://lanco0.itch.io/" target="_blank">https://lanco0.itch.io/</a>
       </li>
       <li>
         <i class="fa fa-tumblr fa-lg fa-fw"></i>
@@ -32,7 +32,7 @@
       </li>
       <li>
         <i class="fa fa-steam fa-lg fa-fw"></i>
-        <a href="https://steamcommunity.com/id/me" target="_blank">steam.com/me</a>
+        <a href="https://steamcommunity.com/id/lanco0" target="_blank">steam.com/me</a>
       </li>
     </ul>
 
