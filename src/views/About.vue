@@ -14,7 +14,7 @@
     </div>
 
     <div class="photo">
-      <img src="img/77984587.jpg" alt="Hakki" /> 
+      <img src="img/77984587.png" alt="Hakki" /> 
     </div>
 
     <div style="clear:both"></div>
