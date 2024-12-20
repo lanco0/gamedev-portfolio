@@ -3,7 +3,7 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>Hakki Tumar</strong>,  passionate about game development and constantly strive to improve myself.
+      I'm <strong>Hakki</strong>,  passionate about game development and constantly strive to improve myself.
        I enjoy learning new things for each new project. I keep up with the latest developments in the gaming industry 
        and I'm always open to new ideas and projects. I love to stay updated with the latest trends and innovations in 
        the gaming world. I believe in continuously expanding my skills and exploring new possibilities. I'm excited to 
