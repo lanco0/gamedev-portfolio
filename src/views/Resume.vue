@@ -3,15 +3,15 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>Hakki Tumar</strong>, a former Delta Force operative with lots of experience, lots of training and huge muscles.
-      <br />After graduating from kindergarten, I've been enrolled in the army for 25 years, where I learned to destroy things in an amazing number of ways.
-      <br />I joined the Delta Force because I thought it was Greek lessons, but I quickly adapted to this unexpected environment and became a key element.
-      <br />I love teamwork, but I can also go in solo depending on the mission requirements.
+      I'm <strong>Hakki Tumar</strong>,  I'm passionate about game development and constantly strive to improve myself.
+      <br />I enjoy learning new things for each new project.
+      <br />I keep up with the latest developments in the gaming industry and I'm always open to new ideas and projects.
+      <br />I love to stay updated with the latest trends and innovations in the gaming world.
       <br />
-      <br />Right now I'm trying to find inner peace after I've read some personal development books. I'm looking for a monk job so if you have any opportunity feel free to 
+      <br /> I believe in continuously expanding my skills and exploring new possibilities. 
       <router-link to="/contact">contact me</router-link>.
       <br />
-      <br />Besides war, I'm passionate about firearms, martial arts, explosions, push-ups and flowers.
+      <br />I'm excited to learn and apply new things in my future game projects.
 
       <div style="margin-top:20px; margin-bottom:20px;">
         <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
