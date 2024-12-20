@@ -3,15 +3,11 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>Hakki Tumar</strong>,  I'm passionate about game development and constantly strive to improve myself.
-      <br />I enjoy learning new things for each new project.
-      <br />I keep up with the latest developments in the gaming industry and I'm always open to new ideas and projects.
-      <br />I love to stay updated with the latest trends and innovations in the gaming world.
-      <br />
-      <br /> I believe in continuously expanding my skills and exploring new possibilities. 
-      <router-link to="/contact">contact me</router-link>.
-      <br />
-      <br />I'm excited to learn and apply new things in my future game projects.
+      I'm <strong>Hakki Tumar</strong>,  passionate about game development and constantly strive to improve myself.
+       I enjoy learning new things for each new project. I keep up with the latest developments in the gaming industry 
+       and I'm always open to new ideas and projects. I love to stay updated with the latest trends and innovations in 
+       the gaming world. I believe in continuously expanding my skills and exploring new possibilities. I'm excited to 
+       learn and apply new things in my future game projects.
 
       <div style="margin-top:20px; margin-bottom:20px;">
         <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
